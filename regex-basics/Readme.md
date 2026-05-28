@@ -27,8 +27,8 @@
 ## Authors
 
 Codeimas
-- [YouTube:Codeimas](https://www.youtube.com/@Codeimas)
+- [YouTube: Codeimas](https://www.youtube.com/@Codeimas)
 
 Code Creator
-- [Github:Codeimas](https://github.com/TheGigaChat)
+- [Github: Codeimas](https://github.com/TheGigaChat)
 

@@ -1,6 +1,6 @@
 # Codeimas Regex Course
 
-Welcome to the full course of JavaScript. Below you will find all codes that is used in JavaScript course on the [Codeimas](https://www.youtube.com/@Codeimas) channel.
+Welcome to the full regex course. Below you will find all codes that is used in JavaScript course on the [Codeimas](https://www.youtube.com/@Codeimas) channel.
 
 ## Topics
 

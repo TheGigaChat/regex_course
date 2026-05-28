@@ -27,7 +27,8 @@
 ## Authors
 
 Codeimas
-- [@JavaScript Guide](https://www.youtube.com/watch?v=bdr3fMwEDks)
+- [YouTube:Codeimas](https://www.youtube.com/@Codeimas)
 
 Code Creator
-- [@Codeimas](https://github.com/TheGigaChat)
+- [Github:Codeimas](https://github.com/TheGigaChat)
+

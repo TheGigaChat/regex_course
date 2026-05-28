@@ -3,7 +3,7 @@
 []()
 
 
-## Steps from the Video
+## Topics from this Video
 
  - Character Class
  - Range

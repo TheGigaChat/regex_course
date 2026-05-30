@@ -1,6 +1,6 @@
 ## Video link
 
-[]()
+[Learn Regex by Solving Challenges #1](https://youtu.be/2B7iAD0ku4Q)
 
 
 ## Topics from this Video

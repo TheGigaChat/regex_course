@@ -1,4 +1,4 @@
-// Regex - string scanner
+// Regex - Basics
 
 // Validate that `username` contains digits
 // `username` is a string

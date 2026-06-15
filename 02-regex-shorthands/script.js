@@ -1,4 +1,4 @@
-// Regex
+// Regex - Short-hands
 
 // Count all words from the `text`.
 // We count separate numbers as words.
